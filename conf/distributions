@@ -1,0 +1,9 @@
+Origin: Austral OS
+Label: Austral OS
+Suite: stable
+Codename: luna
+Version: 0.4
+Architectures: amd64
+Components: main
+Description: Official Austral OS Repository
+SignWith: 182EFB8AAA5F0DEC
